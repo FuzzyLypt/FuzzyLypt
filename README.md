@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FuzzyLypt
-- 👀 I’m interested in game development and java stuff
-- 🌱 I’m currently learning C++ and java
+- 👀 I’m interested in game/software development
+- 🌱 I’m currently learning C++ and Luau
 - 📫 You can DM me in my discord ( fuzzylypt227 )
 
 <!---
